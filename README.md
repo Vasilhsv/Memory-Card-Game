@@ -74,22 +74,23 @@ sudo apt update
 sudo apt install build-essential
 ```
 
-**For Fedora:
+**For Fedora:**
 ```bash
 sudo dnf install gcc
 ```
 
-**For Arch Linux / Manjaro:
+**For Arch Linux / Manjaro:**
 ```bash
 sudo pacman -S gcc
 ```
 
-###To verify the installation, type:
+### To verify the installation, type:
 ```bash
 gcc --version
 ```
 
-🚀 2. Compile and Run
+### 🚀 2. Compile and Run
+
 Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands:
 ```bash
 gcc Memory_Card_Game.c -o Memory_Card_Game
