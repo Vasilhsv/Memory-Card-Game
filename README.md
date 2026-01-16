@@ -52,11 +52,11 @@ Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_
 
 🔹 If using PowerShell:
  ```
-   1.  gcc Memory_Card_Game.c -o Memory_Card_Game.exe
-   2.  ./Memory_Card_Game.exe
+ gcc Memory_Card_Game.c -o Memory_Card_Game.exe
+ ./Memory_Card_Game.exe
 ```
 🔹 If using CMD:
 ```
-   1.  gcc Memory_Card_Game.c -o Memory_Card_Game.exe
-   2.  Memory_Card_Game.exe
+gcc Memory_Card_Game.c -o Memory_Card_Game.exe
+Memory_Card_Game.exe
 ```
