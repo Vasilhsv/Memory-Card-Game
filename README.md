@@ -71,6 +71,7 @@ If they are different, they will be hidden again.
 The game ends when all pairs are found.
 
 Difficulty Levels:
+
 There are 3 difficulty levels to choose from:
 
 1.  Easy: 2x2 Grid
@@ -78,6 +79,7 @@ There are 3 difficulty levels to choose from:
 2.  Medium (Default): 4x4 Grid
 
 3.  Hard: 6x6 Grid
+
 📊 Stats: After finishing the game, you can select option 3 in the menu to see how many attempts it took you to win.
 
 
