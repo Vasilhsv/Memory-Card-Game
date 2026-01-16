@@ -70,7 +70,7 @@ If they are different, they will be hidden again.
 
 The game ends when all pairs are found.
 
-Difficulty Levels
+Difficulty Levels:
 There are 3 difficulty levels to choose from:
 
 1.  Easy: 2x2 Grid
