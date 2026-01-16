@@ -69,33 +69,57 @@ If you are using a Linux distribution (like Ubuntu, Debian, Fedora, or Arch), fo
 Open your terminal and run the command corresponding to your system:
 
 **For Ubuntu / Debian / Linux Mint:**
-```bash
-sudo apt update
-sudo apt install build-essential
-```
+   ```bash
+   sudo apt update
+   sudo apt install build-essential
+   ```
 
 **For Fedora:**
-```bash
-sudo dnf install gcc
-```
+   ```bash
+   sudo dnf install gcc
+   ```
 
 **For Arch Linux / Manjaro:**
-```bash
-sudo pacman -S gcc
-```
+   ```bash
+   sudo pacman -S gcc
+   ```
 
 ### To verify the installation, type:
-```bash
-gcc --version
-```
+   ```bash
+   gcc --version
+   ```
 
 ### 🚀 2. Compile and Run
 
 Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands:
-```bash
-gcc Memory_Card_Game.c -o Memory_Card_Game
-./Memory_Card_Game
-```
+   ```bash
+   gcc Memory_Card_Game.c -o Memory_Card_Game
+   ./Memory_Card_Game
+   ```
+## 🍎 Installation Guide (macOS)
+
+If you are using a Mac, you need to install the **Xcode Command Line Tools** to compile C code.
+
+### 🛠️ 1. Install GCC (via Xcode Tools)
+1. Open the **Terminal** (press `Cmd + Space` and type "Terminal").
+2. Run the following command:
+   ```bash
+   xcode-select --install
+   ```
+3. A pop-up window will appear asking if you want to install the command line developer tools. Click Install.
+
+## To verify the installation, type:
+    ```bash
+    gcc --version
+    ```
+
+🚀 2. Compile and Run
+Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands in your Terminal:
+    ```bash 
+    gcc Memory_Card_Game.c -o Memory_Card_Game
+    ./Memory_Card_Game
+    ```
+    
 
 ## 🎮 Gameplay Instructions
 This is a classic memory game. You will be asked to select positions on the board to reveal hidden numbers.
