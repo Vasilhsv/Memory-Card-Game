@@ -1,4 +1,4 @@
-# Memory Card Game
+# 🧠Memory Card Game
 
 Welcome to the **Memory Card Game**! This is a console-based puzzle game written in C, where your goal is to find matching pairs of numbers on the board.
 
