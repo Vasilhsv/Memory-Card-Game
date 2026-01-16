@@ -114,10 +114,11 @@ gcc --version
 
 🚀 2. Compile and Run
 Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands in your Terminal:
-    ```
-    gcc Memory_Card_Game.c -o Memory_Card_Game
-    ./Memory_Card_Game
-    ```
+
+```
+gcc Memory_Card_Game.c -o Memory_Card_Game
+./Memory_Card_Game
+```
     
 
 ## 🎮 Gameplay Instructions
