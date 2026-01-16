@@ -78,3 +78,12 @@ There are 3 difficulty levels to choose from:
 2.  Medium (Default): 4x4 Grid
 
 3.  Hard: 6x6 Grid
+📊 Stats: After finishing the game, you can select option 3 in the menu to see how many attempts it took you to win.
+
+
+## 📧 Contact
+If you have any questions or issues, feel free to contact us at:
+
+bill322007@hotmail.com
+
+vartholomaiosvasilhs@gmail.com
