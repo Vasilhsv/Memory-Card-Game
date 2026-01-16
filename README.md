@@ -9,7 +9,7 @@ To get started, you need to download the source code file to your computer:
 
 ---
 
-## ⚙️ Installation Guide (Windows)
+## ⚙️ Installation Guide (Windows) 
 
 To compile and run this game, you need the **GCC compiler**. If you don't have it installed, please follow these steps:
 
