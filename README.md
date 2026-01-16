@@ -6,7 +6,7 @@ Welcome to the **Memory Card Game**! This is a console-based puzzle game written
 ### 🎮 Play Native Version (WebAssembly)
 
 
-[▶️ **Click here to Play!**](game.html)
+[▶️ **Click here to Play!**](https://vasilhsv.github.io/Memory-Card-Game/game.html))
 
 
 ## 📥 Download
