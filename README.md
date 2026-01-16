@@ -41,9 +41,9 @@ To make the compiler accessible from Windows:
 
 ### Step 4: Verification
 Open a new terminal and type:
-   ```cmd
-   gcc --version
-   ```
+    ```
+    gcc --version
+    ```
 If you see a message like gcc.exe (Rev...) 13.2.0, you are ready to go!
 
 
@@ -51,15 +51,15 @@ If you see a message like gcc.exe (Rev...) 13.2.0, you are ready to go!
 Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_Card_Game.c and run the following commands:
 
 🔹 If using PowerShell:
-   ```powershell
+    ```
     gcc Memory_Card_Game.c -o Memory_Card_Game.exe
     ./Memory_Card_Game.exe
-   ```
+    ```
 🔹 If using CMD:
-   ```cmd
-   gcc Memory_Card_Game.c -o Memory_Card_Game.exe
-   Memory_Card_Game.exe
-   ```
+    ```
+    gcc Memory_Card_Game.c -o Memory_Card_Game.exe
+    Memory_Card_Game.exe
+    ```
 
 ## 🐧 Installation Guide (Linux)
 
@@ -69,33 +69,32 @@ If you are using a Linux distribution (like Ubuntu, Debian, Fedora, or Arch), fo
 Open your terminal and run the command corresponding to your system:
 
 **For Ubuntu / Debian / Linux Mint:**
-   ```bash
-   sudo apt update
-   sudo apt install build-essential
-   ```
+    ```
+    sudo apt update
+    sudo apt install build-essential
+    ```
 
 **For Fedora:**
-   ```bash
-   sudo dnf install gcc
-   ```
+    ```
+    sudo dnf install gcc
+    ```
 
 **For Arch Linux / Manjaro:**
-   ```bash
-   sudo pacman -S gcc
-   ```
+    ```
+    sudo pacman -S gcc
+    ```
 
 ### To verify the installation, type:
-   ```bash
-   gcc --version
-   ```
-
+```
+gcc --version
+```
 ### 🚀 2. Compile and Run
 
 Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands:
-   ```bash
-   gcc Memory_Card_Game.c -o Memory_Card_Game
-   ./Memory_Card_Game
-   ```
+    ```bash
+    gcc Memory_Card_Game.c -o Memory_Card_Game
+    ./Memory_Card_Game
+    ```
 ## 🍎 Installation Guide (macOS)
 
 If you are using a Mac, you need to install the **Xcode Command Line Tools** to compile C code.
@@ -103,19 +102,19 @@ If you are using a Mac, you need to install the **Xcode Command Line Tools** to 
 ### 🛠️ 1. Install GCC (via Xcode Tools)
 1. Open the **Terminal** (press `Cmd + Space` and type "Terminal").
 2. Run the following command:
-   ```bash
-   xcode-select --install
-   ```
+    ```bash
+    xcode-select --install
+    ```
 3. A pop-up window will appear asking if you want to install the command line developer tools. Click Install.
 
 ## To verify the installation, type:
-    ```bash
-    gcc --version
-    ```
+```
+gcc --version
+```
 
 🚀 2. Compile and Run
 Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands in your Terminal:
-    ```bash 
+    ```
     gcc Memory_Card_Game.c -o Memory_Card_Game
     ./Memory_Card_Game
     ```
