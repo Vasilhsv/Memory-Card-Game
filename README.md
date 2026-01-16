@@ -74,6 +74,28 @@ sudo apt update
 sudo apt install build-essential
 ```
 
+**For Fedora:
+```bash
+sudo dnf install gcc
+```
+
+**For Arch Linux / Manjaro:
+```bash
+sudo pacman -S gcc
+```
+
+###To verify the installation, type:
+```bash
+gcc --version
+```
+
+🚀 2. Compile and Run
+Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands:
+```bash
+gcc Memory_Card_Game.c -o Memory_Card_Game
+./Memory_Card_Game
+```
+
 ## 🎮 Gameplay Instructions
 This is a classic memory game. You will be asked to select positions on the board to reveal hidden numbers.
 
