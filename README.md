@@ -41,9 +41,9 @@ To make the compiler accessible from Windows:
 
 ### Step 4: Verification
 Open a new terminal and type:
-    ```
-    gcc --version
-    ```
+```bash
+gcc --version
+```
 If you see a message like gcc.exe (Rev...) 13.2.0, you are ready to go!
 
 
