@@ -61,6 +61,19 @@ Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_
    Memory_Card_Game.exe
    ```
 
+## 🐧 Installation Guide (Linux)
+
+If you are using a Linux distribution (like Ubuntu, Debian, Fedora, or Arch), follow these steps to install GCC and run the game.
+
+### 1. Install GCC
+Open your terminal and run the command corresponding to your system:
+
+**For Ubuntu / Debian / Linux Mint:**
+```bash
+sudo apt update
+sudo apt install build-essential
+```
+
 ## 🎮 Gameplay Instructions
 This is a classic memory game. You will be asked to select positions on the board to reveal hidden numbers.
 
