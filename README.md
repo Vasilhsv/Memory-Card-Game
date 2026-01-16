@@ -47,7 +47,7 @@ Open a new terminal and type:
 If you see a message like gcc.exe (Rev...) 13.2.0, you are ready to go!
 
 
-### 🚀 How to Compile & Run
+## 🚀 How to Compile & Run
 Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_Card_Game.c and run the following commands:
 
 🔹 If using PowerShell:
@@ -60,3 +60,21 @@ Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_
    gcc Memory_Card_Game.c -o Memory_Card_Game.exe
    Memory_Card_Game.exe
    ```
+
+## 🎮 Gameplay Instructions
+This is a classic memory game. You will be asked to select positions on the board to reveal hidden numbers.
+
+If the two selected numbers are the same, they remain open.
+
+If they are different, they will be hidden again.
+
+The game ends when all pairs are found.
+
+Difficulty Levels
+There are 3 difficulty levels to choose from:
+
+1.  Easy: 2x2 Grid
+
+2.  Medium (Default): 4x4 Grid
+
+3.  Hard: 6x6 Grid
