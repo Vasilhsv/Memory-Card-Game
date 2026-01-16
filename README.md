@@ -43,16 +43,20 @@ To make the compiler accessible from Windows:
 Open a new terminal and type:
 ```cmd
 gcc --version
-If you see a message like gcc.exe (Rev...) 13.2.0, you are ready to go!
 ```
+If you see a message like gcc.exe (Rev...) 13.2.0, you are ready to go!
+
 
 ### 🚀 How to Compile & Run
 Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_Card_Game.c and run the following commands:
 
 🔹 If using PowerShell:
+ ```
    1.  gcc Memory_Card_Game.c -o Memory_Card_Game.exe
    2.  ./Memory_Card_Game.exe
-
+```
 🔹 If using CMD:
+```
    1.  gcc Memory_Card_Game.c -o Memory_Card_Game.exe
    2.  Memory_Card_Game.exe
+```
