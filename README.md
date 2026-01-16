@@ -51,12 +51,12 @@ If you see a message like gcc.exe (Rev...) 13.2.0, you are ready to go!
 Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_Card_Game.c and run the following commands:
 
 🔹 If using PowerShell:
-   ```
+   ```powershell
     gcc Memory_Card_Game.c -o Memory_Card_Game.exe
     ./Memory_Card_Game.exe
    ```
 🔹 If using CMD:
-   ```
+   ```cmd
    gcc Memory_Card_Game.c -o Memory_Card_Game.exe
    Memory_Card_Game.exe
    ```
