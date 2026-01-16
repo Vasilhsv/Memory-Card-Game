@@ -3,6 +3,12 @@
 
 Welcome to the **Memory Card Game**! This is a console-based puzzle game written in C, where your goal is to find matching pairs of numbers on the board.  
 
+### 🎮 Play Native Version (WebAssembly)
+
+
+[▶️ **Click here to Play!**](game.html)
+
+
 ## 📥 Download
 
 To get started, you need to download the source code file to your computer:
